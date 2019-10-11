@@ -1,4 +1,4 @@
-# Lists-Functions-and-String-handling
+# Lists-Functions-and-String-handling in Python
 
 1. Create a program called, ‘SickleCellDisease.py’. You will simulate the effects of the
 Single Nucleotide Polymorphism that leads to this genetic disease.
